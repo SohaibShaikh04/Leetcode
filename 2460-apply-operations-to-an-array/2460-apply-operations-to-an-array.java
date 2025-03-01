@@ -8,7 +8,7 @@ class Solution {
                 nums[i]=0;
             }
         }
-
+//Shifting all zeros to the end
         int j=0;
         for(int i=0;i<n;i++){
             if(nums[i]!=0){
