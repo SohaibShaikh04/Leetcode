@@ -12,3 +12,16 @@ class Solution {
         return countPairs;
     }
 }
+
+
+//Iski better approach ho sakti hai ArrayList se hai par mera mann nahi hai woh karne ka :(
+
+//Mazaak karra hu bhai yeh le ->
+
+// List<Integer> l = new ArrayList<>();
+//         for (int i = 1; i * i <= k; i++) {
+//             if (k % i == 0) {
+//                 l.add(d);
+//                 if (i != k / i) divisors.add(k / d);
+//             }
+//         }
