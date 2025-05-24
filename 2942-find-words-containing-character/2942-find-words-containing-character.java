@@ -9,7 +9,7 @@ class Solution {
                 if(words[i].charAt(j)==x)
                 {
                  list.add(i);
-                 break;
+                 break; //To avoid duplicates
                 }
             }
 
