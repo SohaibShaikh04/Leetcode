@@ -9,7 +9,7 @@ class Solution {
                 return false;
             }
         }
-        return false;
+        return true;
     }
 
     // Convert a number to base-k string representation
