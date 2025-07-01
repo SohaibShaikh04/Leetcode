@@ -10,3 +10,5 @@ class Solution {
         return count;
     }
 }
+
+//simple if she is getting the character again and again matlab woh longpress hua hai wrna nahi toh bas wahi count lo and done
