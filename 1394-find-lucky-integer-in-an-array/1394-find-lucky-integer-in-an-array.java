@@ -13,3 +13,5 @@ class Solution {
         return luckyNum;
     }
 }
+
+//optimized with map
