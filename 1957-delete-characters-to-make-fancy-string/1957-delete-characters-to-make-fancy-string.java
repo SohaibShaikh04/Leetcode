@@ -12,10 +12,6 @@ class Solution {
             }
         }
 
-        if(s.length()<3){
-            return "";
-        }
-
         return answer.toString();
     }
 }
