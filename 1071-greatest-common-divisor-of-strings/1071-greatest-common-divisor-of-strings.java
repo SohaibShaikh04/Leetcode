@@ -13,3 +13,6 @@ class Solution {
         return  b == 0 ? a : gcd(b, a % b);
     }
 }
+
+//Today learnt about euclid's algo where gcd which means greatest common divisor helped me to reach the solution.
+ 
