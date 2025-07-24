@@ -21,7 +21,7 @@ class Solution {
 
         dfs(0, -1, nums);
 
-        int totalXor = subtreeXor[1];
+        int totalXor = subtreeXor[0];
         int res = Integer.MAX_VALUE;
         
 
