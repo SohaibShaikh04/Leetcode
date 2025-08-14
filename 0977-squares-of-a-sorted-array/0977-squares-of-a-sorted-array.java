@@ -9,3 +9,5 @@ class Solution {
         return ans;
     }
 }
+
+// Two Pointers can be used if Array.sort use nahi karna hai toh ; )
