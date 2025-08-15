@@ -1,11 +1,5 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
-        if(n==1)  return true;
-
-        if(n<=0 || n%4 != 0) return false;
-
-        boolean answer = false;
-        answer = isPowerOfFour(n/4);
-        return answer;
+        return n > 0 && (n & (n - 1)) == 0 && n % 3 == 1;
     }
 }
