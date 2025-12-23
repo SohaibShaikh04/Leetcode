@@ -1,26 +1,34 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        if(s.isEmpty()){
-            return true;
-        }
-        int start=0;
-        int end = s.length()-1;
-        while(start<=end){
-            char first=s.charAt(start);
-            char last=s.charAt(end);
-            if(!Character.isLetterOrDigit(first)){
+        
+        char[] arr = s.toLowerCase().toCharArray();
+
+        int start = 0;
+        int end = s.length() - 1;
+
+        while(start < end){
+            if(! Character.isLetterOrDigit(arr[start])){
                 start++;
-            }
-            else if(!Character.isLetterOrDigit(last)){
-                end--;
+                continue;
+        }
+        if(! Character.isLetterOrDigit(arr[end])){
+            end--;
+            continue;
+        }
+            if(arr[start] != arr[end]){
+                return false;
             }
             else{
-                if(Character.toLowerCase(first)!=Character.toLowerCase(last)){
-                    return false;
-                }
-                start++;end--;
+                start++;
+                end--;
             }
+
+        
         }
         return true;
     }
 }
+
+
+//Learnt how to use 2 pointers apporach of both opposite sides
+// t.c = O(n);
