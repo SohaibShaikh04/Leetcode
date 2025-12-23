@@ -1,13 +1,25 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
-        int n = nums.length;
-        int ans[] = new int[n];
-        for(int i=0;i<n;i++){
-            ans[i] = nums[i] * nums[i];
+        int start = 0 ;
+        int[] ans = new int[nums.length];
+        int end = nums.length - 1;
+        int k = nums.length - 1;
+
+        while(start <= end) {
+            if(Math.abs(nums[start]) > Math.abs(nums[end])){
+                ans[k] = Math.abs(nums[start])*Math.abs(nums[start]);
+                start++;
+            }
+            else {
+                ans[k] = Math.abs(nums[end])* Math.abs(nums[end]);
+                end--;
+            }
+            k--;
         }
-        Arrays.sort(ans);
         return ans;
     }
 }
 
-// Two Pointers can be used if Array.sort use nahi karna hai toh ; )
+
+
+//Solved using two pointer approach 
