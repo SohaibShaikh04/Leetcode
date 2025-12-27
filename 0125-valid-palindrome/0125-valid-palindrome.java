@@ -1,7 +1,7 @@
 class Solution {
     public boolean isPalindrome(String s) {
-        
-        char[] arr = s.toLowerCase().toCharArray();
+        String snew = s.toLowerCase();
+        char[] arr = snew.toCharArray();
 
         int start = 0;
         int end = s.length() - 1;
@@ -28,7 +28,3 @@ class Solution {
         return true;
     }
 }
-
-
-//Learnt how to use 2 pointers apporach of both opposite sides
-// t.c = O(n);
