@@ -35,4 +35,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2938-separate-black-and-white-balls](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2938-separate-black-and-white-balls](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 <!---LeetCode Topics End-->
