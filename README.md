@@ -32,10 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -65,5 +67,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0242-valid-anagram](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
