@@ -1,16 +1,21 @@
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        int i=0;
-        int j=nums.length - 1;
-        while(j>i){
-            if(nums[i] + nums[j] == target){
-                return new int[] {i+1,j+1};
+    public int[] twoSum(int[] numbers, int target) {
+        int start = 0;
+        int end = numbers.length -1 ;
+
+        while(start < end){
+            if(numbers[start] + numbers[end] > target){
+                end--;
             }
-            else if(nums[i] + nums[j]> target) {
-                j-- ;
-             }
-             else i++;
+
+            if(numbers[start] + numbers[end] < target){
+                start++;
+            }
+            if(numbers[start] + numbers[end] == target){
+                return new int[] {start+1 , end+1};
+            }
         }
-        return new int[] {0,0};
+        return new int[] {-1 , -1};
     }
 }
+//Two Pointers since array is sorted 
