@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -54,11 +55,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0049-group-anagrams/) | Medium |
