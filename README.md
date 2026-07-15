@@ -101,4 +101,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0155-min-stack/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
