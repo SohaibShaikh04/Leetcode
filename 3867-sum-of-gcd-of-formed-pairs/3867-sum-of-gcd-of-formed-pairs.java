@@ -18,10 +18,13 @@ class Solution {
         int n=prefixGcd.length;
         long ans = 0;
         // this method actually helps me skipping the odd case as well wonder I did'nt thought this beofre : ( - sohaib you're dumb!
-        for(int i=0;i<n/2;i++) 
-        {
-          ans += gcd(prefixGcd[i], prefixGcd[n-i-1]);
-        }
+        int left = 0;
+        int right = prefixGcd.length - 1;
+       while(left < right){
+         ans += gcd(prefixGcd[left] , prefixGcd[right]);
+         left++;
+         right--;
+       }
         return ans;
     }
 }
