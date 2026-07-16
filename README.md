@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,8 +108,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
