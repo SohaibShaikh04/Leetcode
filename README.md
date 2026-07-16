@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0155-min-stack/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Number Theory
