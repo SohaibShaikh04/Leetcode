@@ -21,7 +21,7 @@ class Solution {
 
         for (int i = 0; i < V; i++) {
             if (!visited[i]) {
-                DFS(adj, i, visited);
+                BFS(adj, i, visited);
                 count++;
             }
         }
@@ -29,17 +29,26 @@ class Solution {
         return count;
     }
 
-    public void DFS(ArrayList<Integer>[] adj, int u, boolean[] visited) {
+    public void BFS(ArrayList<Integer>[] adj, int u, boolean[] visited) {
         if (visited[u]) {
             return;
         }
-
+        Queue<Integer> q = new LinkedList<>();
         visited[u] = true;
+        q.offer(u);
 
-        for (int v : adj[u]) {
-            if (!visited[v]) {
-                DFS(adj, v, visited);
+        while(!q.isEmpty()){
+            int N = q.peek();
+            q.poll();
+            for(int v : adj[N]){
+                if(!visited[v])
+                {
+                    visited[v] = true;
+                    q.offer(v);
+                }
             }
         }
     }
 }
+
+//BFS SE BHI KARDIAAA ; ) 
