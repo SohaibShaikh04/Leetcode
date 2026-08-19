@@ -10,7 +10,7 @@ class Solution {
         for(int i=0;i<V;i++){
             if(color[i] == -1){
 
-              if(DFS(graph ,i,color,currColor) == false){
+              if(BFS(graph ,i,color,currColor) == false){
                 return false;
               } 
             }
@@ -19,25 +19,36 @@ class Solution {
     return true;
 
     }
-    //DFS implementation 
-    public boolean DFS(int[][] adj , int u , int[] color , int currColor)
+    //BFS implementation 
+    public boolean BFS(int[][] adj , int u , int[] color , int currColor)
     {
+        Queue<Integer> queue = new LinkedList<>();
         color[u] =currColor;
+        queue.offer(u);
 
-        for(int v : adj[u]){
-            if(color[v] == currColor){
+        while(! queue.isEmpty()){
+            int curr = queue.peek();
+            queue.poll();
+
+            for(int v : adj[u])
+            {
+               if(color[v] == currColor)
+               {
                 return false;
-            }
-            if(color[v] == -1){
-                color[v] = 1 - currColor;
+               }
 
-                if(DFS(adj , v , color , 1 - currColor) == false){
-                    return false;
+                if(color[v] == -1)
+                {
+                    color[v] = 1 - currColor;
+                    queue.offer(v);
+
+                    if(BFS(adj , v , color , 1 - currColor) == false){
+                        return false;
+                    }
                 }
-        }
-    }
+                }
+            }
+        
     return true;
-}
-
-  //Can't believe solved the whole graph question on my own -Sohaib ;)
+   }
 }
