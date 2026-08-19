@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,16 +155,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,4 +177,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
