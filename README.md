@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0990-satisfiability-of-equality-equations](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Two Pointers
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0739-daily-temperatures](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0990-satisfiability-of-equality-equations](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1260-shift-2d-grid](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0990-satisfiability-of-equality-equations](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
