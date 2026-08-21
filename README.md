@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,12 +159,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
