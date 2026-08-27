@@ -1,30 +1,50 @@
 class Solution {
-    public List<Integer> eventualSafeNodes(int[][] graph) {
-        int n = graph.length;
-        int[] state = new int[n]; // 0: unvisited, 1: visiting, 2: safe
-        List<Integer> safe = new ArrayList<>();
 
+    public List<Integer> eventualSafeNodes(int[][] graph) {
+
+        int n = graph.length;
+
+
+        int[] state = new int[n];
+
+        List<Integer> ans = new ArrayList<>();
+
+    
         for (int i = 0; i < n; i++) {
-            if (dfs(graph, i, state)) {
-                safe.add(i);
+
+            if (dfs(i, graph, state)) {
+                ans.add(i);
             }
         }
-        
-        return safe;
+
+        return ans;
     }
 
-    private boolean dfs(int[][] graph, int node, int[] state) {
-        if (state[node] > 0) return state[node] == 2; // Already safe
+    private boolean dfs(int node, int[][] graph, int[] state) {
+
+        // Already safe
+        if (state[node] == 2) {
+            return true;
+        }
+
+      
+        if (state[node] == 1) {
+            return false;
+        }
+
+        state[node] = 1;
+
         
-        state[node] = 1; // Mark as visiting
-        
-        for (int next : graph[node]) {
-            if (state[next] == 1 || !dfs(graph, next, state)) {
-                return false; // Cycle detected
+        for (int neighbour : graph[node]) {
+
+            if (!dfs(neighbour, graph, state)) {
+                return false;
             }
         }
+
         
-        state[node] = 2; // Mark as safe
+        state[node] = 2;
+
         return true;
     }
 }
