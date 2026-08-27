@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Binary Tree
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
 ## Union-Find
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0990-satisfiability-of-equality-equations](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph/) | Medium |
@@ -185,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,4 +201,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
