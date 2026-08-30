@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SOHAIB-code-png/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
