@@ -11,7 +11,7 @@ class Solution {
             int u = edge[0];
             int v = edge[1];
             adj[u].add(v);
-            adj[v].add(u); //cables act as an undirected edge
+            adj[v].add(u); 
         }
 
         if(connections.length < n-1) return -1;
