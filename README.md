@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0990-satisfiability-of-equality-equations](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0990-satisfiability-of-equality-equations/) | Medium |
@@ -232,4 +233,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SOHAIB-code-png/Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
