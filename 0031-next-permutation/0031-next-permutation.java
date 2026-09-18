@@ -41,3 +41,5 @@ class Solution {
         
     }
 }
+
+// Next permutation helps in understanding how to reach themax number from the probab. but it should be exact next --Sohaib ;)
