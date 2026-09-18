@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SOHAIB-code-png/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
